@@ -12,3 +12,6 @@ void Mystrcpy(char *des,const char *src)
     }
     des[i]='\0';
 }
+/**
+本地编辑
+**/
